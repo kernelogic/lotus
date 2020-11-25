@@ -3,7 +3,7 @@ package dtypes
 import (
 	bserv "github.com/ipfs/go-blockservice"
 	"github.com/ipfs/go-datastore"
-	"github.com/kernelogic/go-graphsync"
+	"github.com/ipfs/go-graphsync"
 	exchange "github.com/ipfs/go-ipfs-exchange-interface"
 	format "github.com/ipfs/go-ipld-format"
 
