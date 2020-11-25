@@ -29,7 +29,7 @@ import (
 	"github.com/testground/sdk-go/network"
 	"golang.org/x/sync/errgroup"
 
-	gs "github.com/ipfs/go-graphsync"
+	gs "github.com/kernelogic/go-graphsync"
 	gsi "github.com/ipfs/go-graphsync/impl"
 	gsnet "github.com/ipfs/go-graphsync/network"
 
