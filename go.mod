@@ -158,4 +158,4 @@ replace github.com/filecoin-project/test-vectors => ./extern/test-vectors
 
 replace github.com/supranational/blst => ./extern/blst
 
-replace github.com/ipfs/go-graphsync => github.com/kernelogic/go-graphsync
+replace github.com/ipfs/go-graphsync => github.com/kernelogic/go-graphsync v0.5.0
